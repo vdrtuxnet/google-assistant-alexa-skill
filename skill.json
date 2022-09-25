@@ -53,6 +53,23 @@
             "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
             "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
           },
+          "de-DE": {
+            "summary": "Alexa Integration mit Google Assistant.",
+            "examplePhrases": [
+              "Alexa, öffne Google",
+              "Alexa, frage Google warum ist der Himmel blau",
+              "Alexa, frage Google wer ist die Königin"
+            ],
+            "keywords": [
+              "google",
+              "assistent",
+              "integration"
+            ],
+            "name": "Google Assistant für Alexa",
+            "description": "Alexa integration with Google Assistant.\n\nThis skill is for personal use only and is not endorsed by Google. Whilst this skill uses an official Google API, it will never pass Amazon certification due to how the responses are hosted.\n\nTo start, just say \"Alexa, launch Google\" or \"Alexa, open Google\" to start a conversation with Google Assistant\".",
+            "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
+            "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
+          },
           "en-CA": {
             "summary": "Alexa integration with Google Assistant.",
             "examplePhrases": [
